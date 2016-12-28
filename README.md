@@ -8,7 +8,7 @@ SparkGen
     * Data warehousing jobs were becoming complex
     * Developers were making lot of indentation and spelling mistakes while configuring a job.
 
-Our team came up with an idea to automate job configuration process with a methodology. you can find it ![here](./SparkGen Version 2.pdf).
+Our team came up with an idea to automate job configuration process with a methodology. you can find it [here](./SparkGen Version 2.pdf).
 
   Since this is a proprietary tool, I cannot share the code. But readers can of course get an idea on the methodology.
 
